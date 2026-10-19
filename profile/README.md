@@ -1,3 +1,1 @@
 # enbu
-
-# <https://enbu.net>  
